@@ -1,6 +1,4 @@
-print("================================= \n"
-        "  Conversão de Dolar para Real \n"
-        "================================= ");
+print("================================= \nConversão de Dolar para Real \n================================= ");
 print("1 - Real Para Dolar\n" "2 - Dolar para Real");
 
 option = int(input("Digite a Opção de Sua Escolha: "));
