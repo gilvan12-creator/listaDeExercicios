@@ -1,1 +1,51 @@
 Lista de exercicios..........
+
+1. Faça um programa que mostre como saída o seguinte texto: "Consegui faZer meu primeiro ProgRaminhAa."2. Crie um programa que permita fazer a conversão cambial entre Dólares e Reais. Considere como
+taxa de câmbio US$ 1,0 = R$3,92. Leia um valor em Dólares pelo teclado e mostre o correspondente
+em Reais.
+3. Faça um programa que, a partir das medidas dos lados de um retângulo, lidos via teclado, calcule a
+área e o perímetro deste retângulo.
+A = a × b
+P = 2 × a + 2 × b
+4. Leia um número inteiro e imprima o seu antecessor e o seu sucessor.
+5. Leia o tamanho do lado de um quadrado e imprima como resultado a sua área.
+6. Elaborar um programa para calcular e imprimir o volume (V) de uma esfera e a área (A) de sua
+superfície, dado o valor de seu raio (R). A fórmula do volume da esfera é V =
+4
+3
+πR3
+e A = 4πR2
+.
+7. Faça um programa que leia um número real e imprima o resultado do quadrado desse número.
+8. Faça um programa que leia a temperatura em graus Fahrenheit F e converta para graus Celsius C.
+Fórmula: F = C × (9.0/5.0) + 32.
+9. Leia uma velocidade em km/h (quilômetros por hora) e apresente-a convertida em m/s (metros por
+segundo). A fórmula de conversão é: M = K/3.6, sendo K a velocidade em km/h e M em m/s.
+10. Leia um ângulo em graus e apresente-o convertido em radianos. A fórmula de conversão é: R =
+G ∗ π/180, sengo G o ângulo em graus e R em radianos. Use π = 3.14.
+11. Faça a leitura de três valores e apresente como resultado a soma dos quadrados dos três valores e o
+quadrado da soma dos três valores.
+12. Faça um programa que receba o salário de um funcionário. Calcule e imprima o valor do novo salário,
+sabendo que ele recebeu um aumento de 21, 37%.
+13. Faça um programa que receba um valor em R$ que será dividida entre três ganhadores de um
+concurso. Sendo que da quantia total:
+ O primeiro ganhador receberá 46%;
+ O segundo ganhador receberá 32%;
+ O terceiro receberá o restante;
+Calcule e imprima a quantia ganha por cada um dos ganhadores.
+1
+14. Faça um programa que leia um número inteiro positivo de três dígitos (de 100 a 999). Gere outro
+número formado pelos dígitos invertidos do número lido. Exemplo:
+Número Lido = 123
+Número Gerado = 321
+15. Leia um número inteiro de 4 dígitos (de 1000 a 9999) e imprima 1 dígito por linha.
+16. Leia um valor inteiro positivo em segundos, e imprima-o em horas, minutos e segundos.
+17. Escreva um programa que leia as coordenadas x e y de pontos no R
+2
+e calcule sua distância da origem
+(0, 0).
+18. Três amigos jogaram na loteria. Caso eles ganhem, o prêmio deve ser repartido proporcionalmente ao
+valor que cada deu para a realização da aposta. Faça um programa que leia quanto cada apostador
+investiu, o valor do premio, e imprima quanto cada um ganharia do prêmio com base no valor
+investido.
+
